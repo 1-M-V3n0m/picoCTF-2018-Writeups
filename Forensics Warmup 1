@@ -1,0 +1,16 @@
+Forensics Warmup 1 - Points: 50 - (Solves: 44105)
+
+Solve:
+Can you unzip this file for me and retreive the flag?
+Hint:
+Make sure to submit the flag as picoCTF{XXXXX}
+
+File Link: https://drive.google.com/file/d/18T8RYuPZ2c5rceyXyQBWRUD1BqnQCuzd/view?usp=sharing
+
+
+Solution:
+
+After downloading the file you will get an .jpg image and the flag will be written inside the boxes.
+
+Ansewer: picoCTF{Welcome_to_forensics}
+
