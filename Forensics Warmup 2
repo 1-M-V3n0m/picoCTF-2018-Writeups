@@ -1,0 +1,16 @@
+Forensics Warmup 2 - Points: 50 - (Solves: 41769)
+
+Solve:
+Hmm for some reason I can't open this PNG? Any ideas?
+
+Hint:
+How do operating systems know what kind of file it is? (It's not just the ending!
+Make sure to submit the flag as picoCTF{XXXXX}
+
+File link: https://drive.google.com/open?id=1DmfBUYfkdMMzZRg2kdvPDi7NMNbFrNv8
+
+Solution:
+The given file has an extension of .png but the file format is in .jpg format. 
+So in order to get the flag change the extension from .png to .jpg
+
+Falg : picoCTF{extensions_are_a_lie}
