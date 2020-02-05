@@ -1,0 +1,14 @@
+General Warmup 1 - Points: 50 - (Solves: 56548)
+
+Solve:
+If I told you your grade was 0x41 in hexadecimal, what would it be in ASCII?
+
+Hint:
+Submit your answer in our competition's flag format. For example, if you answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
+
+Solution:
+In the given question the hexadecimal number is "0x41".
+You can use a online Hexadecimal to ASCII decoder to get the exact ASCII value of the hexidecimal number.
+Reference: https://www.rapidtables.com
+
+Flag: picoCTF{A}
