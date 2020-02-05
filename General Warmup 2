@@ -1,0 +1,15 @@
+General Warmup 2 - Points: 50 - (Solves: 55653)
+
+Solve:
+Can you convert the number 27 (base 10) to binary (base 2)?
+
+Hint:
+Submit your answer in our competition's flag format. For example, if you answer was '11111', you would submit 'picoCTF{11111}' as the flag.
+
+Solution:
+The given number is 27 and that is in (base 10), In the given problem statement we need to convert the given number into 
+binary (base 2).
+Use any online Decimal to binary decoder and get the flag.
+Referance: http://www.unitconversion.org
+
+Flag: picoCTF{11011}
